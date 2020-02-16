@@ -1,0 +1,11 @@
+Ni: Fit for N1: Fit1=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=95.94; A1=891.5; mu1=7.40; ó1=0.22; 
+CU: Fit for N2: Fit2=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=67.83; A1=711.2; mu1=7.96; ó1=0.23; 
+ZN: Fit for N3: Fit3=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=56.32; A1=543.3; mu1=8.54; ó1=0.23; 
+V : Fit for N4: Fit4=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=75.22; A1=955.3; mu1=4.93; ó1=0.27;
+Cr: Fit for N5: Fit5=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=119.09; A1=1261.9; mu1=5.39; ó1=0.27; 
+Mn: Fit for N6: Fit6=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=121.78; A1=1068.8; mu1=5.86; ó1=0.26; 
+FE: Fit for N7: Fit7=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=128.59; A1=1081.9; mu1=6.35; ó1=0.27; 
+CO: Fit for N8: Fit8=SIGMAA_i*exp(-(x-mu_i)²/2ó_i²)+B; B=140.29; A1=1166.8; mu1=6.87; ó1=0.27; 
+
+
+Periodic table: https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee
